@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 40px 0px;
+  gap: 40px 10px;
+}
+
+.nextPage {
+  margin-top: 100px;
+}

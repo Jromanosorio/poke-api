@@ -1,0 +1,17 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ef5350;
+    color: white;
+}
+
+.navbar img {
+    height: 70px;
+}
